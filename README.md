@@ -1,4 +1,5 @@
-<p align="center">STATIC</p>
+<p align="center">Nuxt Admin Panel Demo</p>
 
-## <div align="right">ثابت ها !</div>
-<p align="right">درواقع این فایل رو ناکست موقع بیلد در روت خودش قرار میدهد مثلا فایل سرویس ورکر که مربوط به وب اپلیکیشن هست هنگام باز کردن سایت باید در روت اپلیکیشن شما باشد و یا ایکن اصلی سایت که باید در روت باشد اینجا قرار میگیرد</p>
+## See Demo
+- [github demo](https://mnsry.github.io)
+- [site demo](https://nuxt.laranuxt.ir)
